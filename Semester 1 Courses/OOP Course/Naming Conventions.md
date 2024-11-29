@@ -1,0 +1,2 @@
+- Attributes have a naming convention based on their access level. Attributes that are public typically start with an uppercase letter. Private attributes typically start with a lowercase (though there are exceptions to this that we'll discuss in Chapter 2) letter and use a style, called camel case, where each new word in the name begins with a capital letter, like this: `exampleAttributeName`. 
+- Operations, whether public or otherwise, start with an uppercase letter. 

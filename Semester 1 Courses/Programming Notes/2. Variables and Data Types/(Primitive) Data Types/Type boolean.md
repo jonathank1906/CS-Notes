@@ -1,0 +1,1 @@
+- Booleans can have two values, either `true` (1) or `false` (0).

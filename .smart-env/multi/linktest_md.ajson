@@ -1,0 +1,3 @@
+
+"SmartSource:linktest.md": {"key":"linktest.md","path":"linktest.md","embeddings":{},"history":[{"blocks":{"linktest.md#":true},"mtime":1723302368964,"size":20,"hash":"cc0dcdadd13e172d04bb3e4af63add2f638f3079736614caa890f35d53987d57"}],"class_name":"SmartSource","outlinks":[{"title":"Test Dark Mode","target":"Test Dark Mode","line":1}]}
+"SmartBlock:linktest.md#": {"key":"linktest.md#","path":"linktest.md#","embeddings":{},"text":null,"length":18,"class_name":"SmartBlock","heading":null,"lines":[0,2]}

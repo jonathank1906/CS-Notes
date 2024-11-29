@@ -1,0 +1,1 @@
+- Ability to implement inherited properties or methods in different ways across multiple abstractions.

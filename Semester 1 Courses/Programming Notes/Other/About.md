@@ -1,0 +1,1 @@
+- C and C++ are statistically typed programming languages which means that we cannot change a variable's type once it has been declared.

@@ -1,0 +1,3 @@
+- By using the `params` keyword, a function can accept a varying amount of arguments (inputs).
+- The parameter type must be a single dimensional array.
+- 

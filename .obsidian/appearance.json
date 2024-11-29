@@ -1,0 +1,20 @@
+{
+  "accentColor": "#9fc313",
+  "cssTheme": "Pisum",
+  "interfaceFontFamily": "JetBrainsMono Nerd Font Mono",
+  "textFontFamily": "JetBrainsMono Nerd Font Mono",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font Mono",
+  "enabledCssSnippets": [
+    "retro-notebook-bg",
+    "Daily Note",
+    "Japanese Fonts",
+    "Code Blocks",
+    "test",
+    "Notebook Backgrounds",
+    "CyanVoxel's General Tweaks",
+    "Remove file extension"
+  ],
+  "translucency": false,
+  "theme": "obsidian",
+  "baseFontSize": 17
+}

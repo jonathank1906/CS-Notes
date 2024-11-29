@@ -1,0 +1,1 @@
+- % operator gives the remainder from integer division. It is also called the modulus.

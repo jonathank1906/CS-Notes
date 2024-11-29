@@ -1,0 +1,15 @@
+div[data-path$='.png']{
+	display: none;
+}
+
+div[data-path$='.gif']{
+	display: none;
+}
+
+div[data-path$='.jpg']{
+	display: none;
+}
+
+div[data-path$='.webp']{
+	display: none;
+}
