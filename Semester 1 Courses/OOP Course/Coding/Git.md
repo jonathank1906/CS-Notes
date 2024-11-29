@@ -90,6 +90,7 @@ Once you type `git init`, then open this folder with VS code.
 5. Open this folder with VS Code.
 6. Back to the command prompt do the rest of the commands it gives you.
 
+…or create a new repository on the command line
 ```
 echo "# CS_Notes" >> README.md
 git init
@@ -97,6 +98,13 @@ git add README.md
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/jonathank1906/CS_Notes.git
+git push -u origin main
+```
+
+…or push an existing repository from the command line
+```
+git remote add origin https://github.com/jonathank1906/CS_Notes.git
+git branch -M main
 git push -u origin main
 ```
 
