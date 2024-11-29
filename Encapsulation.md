@@ -14,6 +14,3 @@
 Example of a `LibraryBook` class:
 - You might have a public getter method for title and author to allow users to read these values.
 - You could provide a setter method for title and author to control how changes are made. This can include validations or checks before making changes.
-
-
-
