@@ -25,17 +25,7 @@ More comparison:
 - A class is a collection of variables and functions, all wrapped up into one.
 
 
-# Procedural vs. Object-Oriented Programming
-- Until now we have been doing something called procedural programming. This means that programs are built around the idea in which they follow a sequence of instructions.
-- With OOP we are able to create our very own data types.
-- An example of an object in OOP could be car. If you think of a car, it can be considered as an object and it is composed of many parts. For example, it has an entire, a transmission, wheels, and an interior.
-- So far you have been creating procedural programs. So what is a procedural program? In procedural programming you create variables using the basic data types and these variable are then manipulated by functions. 
-	- Let’s suppose that you want to keep track of all of the classes you are taking at BHS. More precisely you want to keep track of all your assignments, quizzes, and tests. Now let’s suppose that you want to get the averages for your homework, in class assignments, quizzes, and tests. You then want to calculate the weights for each category in order to determine the grade you have. Using procedural programming you would probably create many variables including arrays to store multiple subjects, and assignments. You would then have to create functions in which you can pass in the grades you received for the different assignments. The function would then add up all the scores, divide the sum by how the amount of assignments you have completed and then return the average. By using this approach your program would become large and difficult to maintain.
-- Now let’s take a look at Object Oriented Programming: With OOP you can recreate the program above by creating an object (an object of type student). If you sit down and think of your surroundings you will find out that an object is composed of several parts. In our example we can think of the object as a Gradebook. A gradebook has different categories such as:
-1. Homework
-2. In class assignments
-3. Quizzes
-4. Tests
-- Each category in turn has a point value whether it is a homework assignment or a test. By grouping all of these categories into one we can create variables and member functions that can set, get, and manipulate the information as one object.
+[Procedural vs. Object-Oriented Programming](Paradigms.md)
+
 
 
